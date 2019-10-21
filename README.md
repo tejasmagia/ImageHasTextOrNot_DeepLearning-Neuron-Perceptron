@@ -1,5 +1,5 @@
 Task
-The goal is to identify the presence of a character in images using MP Neuron / Perceptron / Perceptron with sigmoid. The character images are compiled in Tamil, Hindi and English. We have altered the task in 4 levels with increase in data complexity.
+The goal is to identify the presence of a character in images using MP Neuron / Perceptron / Perceptron with sigmoid. The character images are compiled in Tamil, Hindi and English.
 
 Evaluation Metric
 Submissions are evaluated on Accuracy Score between the predicted and the actual labels on test dataset
